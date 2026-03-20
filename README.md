@@ -1,3 +1,6 @@
+# Deprecated
+This repository was used for a OIDC key rollover around 2020.  Is no longer needed.
+
 # OpenConext-crypto
 
 Generate TINK cryptographic key material.  
